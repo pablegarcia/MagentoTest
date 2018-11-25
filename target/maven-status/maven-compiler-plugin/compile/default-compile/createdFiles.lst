@@ -1,0 +1,8 @@
+magento/test/webservice/SortByLineNumber.class
+magento/test/webservice/NotificationsUtil.class
+magento/test/webservice/Orders.class
+magento/test/webservice/Line.class
+magento/test/webservice/OrdersRESTService.class
+magento/test/webservice/NotificationsUtil$1.class
+magento/test/webservice/Order.class
+magento/test/webservice/Request.class
